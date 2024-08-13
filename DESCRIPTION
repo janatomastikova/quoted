@@ -1,0 +1,15 @@
+Package: quoted
+Type: Package
+Title: Lecturer quotes
+Version: 0.1.0
+Author: Jana
+Maintainer: Jana Tomastikova <j.tomastikova@sms.ed.ac.uk>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under? No idea
+Encoding: UTF-8
+LazyData: true
+Depends: audio
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
