@@ -13,7 +13,7 @@ install_github("janatomastikova/quoted")
 
 ## Requirements
 
-If you are using Windows or OS X `quoted` relies on the `audio` package for sound playback and no external program is needed.
+If you are using Windows or OS X `quoted` relies on the `audio` package for sound playback and no external program is needed. You might have to install/update the `audio` package.
 
 If you're on Linux, I have no idea how it works.
 
