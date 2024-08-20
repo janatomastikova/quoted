@@ -24,7 +24,7 @@ If you're on Linux, I have no idea how it works.
 
 ### Usage
 
-`wendy(x = 1)`
+`wendy(x)`
 
 ### Arguments
 
@@ -32,20 +32,20 @@ If you're on Linux, I have no idea how it works.
 
 `wendy()`
 
-1.  "Shut up"
-2.  "Thank you"
+1 =  "Shut up"
+2 = "Thank you"
 
 `john()`
 
-1. "I don't even wanna look at this page anymore"
+1 = "I don't even wanna look at this page anymore"
 
 `jasna()`
 
-1. "It's very very very straightforward"
+1 = "It's very very very straightforward"
 
 `zach()`
 
-1. "Can you stop talking? ..."
-2. "What the fuck? ..."
+1 = "Can you stop talking? ..."
+2 = "What the fuck? ..."
 
 
