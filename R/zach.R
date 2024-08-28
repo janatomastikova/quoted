@@ -17,6 +17,7 @@ zach <- function(x) {
   zach_wish <- load.wave(wish_file)
   zach_big <- load.wave(big_file)
 
+
   # Play the selected sound
   if (x == 1)
     play(zach_talking)
@@ -26,6 +27,7 @@ zach <- function(x) {
     play(zach_wish)
   if (x == 4)
     play(zach_big)
+
 }
 
 # Example usage
@@ -33,3 +35,4 @@ zach(1)
 zach(2)
 zach(3)
 zach(4)
+

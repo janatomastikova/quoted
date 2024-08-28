@@ -54,4 +54,8 @@ If you're on Linux, I have no idea how it works.
 
 4 = "We're gonna be dealing with data that's really big"
 
+5 = "Here's a plot"
+
+6 = "I like cats btw"
+
 
