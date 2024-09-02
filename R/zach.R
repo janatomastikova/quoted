@@ -9,6 +9,7 @@ zach <- function(x) {
   fuck_file <- system.file("extdata","what-the-fuck.wav", package = "quoted")
   wish_file <- system.file("extdata","i wish i was kidding.wav", package = "quoted")
   big_file <- system.file("extdata","Data-thats-very-big.wav", package = "quoted")
+  cats_file <- system.file("extdata","I-like-cats-btw.wav", package = "quoted")
 
 
   # Load the wave files
@@ -16,6 +17,7 @@ zach <- function(x) {
   zach_fuck <- load.wave(fuck_file)
   zach_wish <- load.wave(wish_file)
   zach_big <- load.wave(big_file)
+  zach_cats <- load.wave(cats_file)
 
 
   # Play the selected sound
@@ -27,6 +29,8 @@ zach <- function(x) {
     play(zach_wish)
   if (x == 4)
     play(zach_big)
+  if (x== 5)
+    play(zach_cats)
 
 }
 
@@ -35,4 +39,5 @@ zach(1)
 zach(2)
 zach(3)
 zach(4)
+zach(5)
 
