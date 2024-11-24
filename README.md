@@ -1,6 +1,6 @@
 # `quoted`: Lecturer Quotes
 
-`quoted` is an R package that contains several main functions based on the names of lecturers (for example `wendy()`), which play a sound from a recorded lecture with a funny remark. It's purpose is obvious - when you are feeling sentimental about your uni and our wonderful lecturers, you can easily replay some of the best moments fro lectures. It is also intended to be useful, for example, if you are running a long analysis in the background and want to know when it is ready, you simply put the sound at the end of your script..
+`quoted` is an R package that contains several main functions based on the names of lecturers (for example `wendy()`), which play a sound from a recorded lecture with a funny remark. It's purpose is obvious - when you are feeling sentimental about your uni and our wonderful lecturers, you can easily replay some of the best moments from lectures. It is also intended to be useful, for example, if you are running a long analysis in the background and want to know when it is ready, you simply put the sound at the end of your script.
 
 ## Installation
 
