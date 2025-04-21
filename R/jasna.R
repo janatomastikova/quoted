@@ -6,15 +6,25 @@ library(audio)
 jasna <- function(x) {
   # Locate the sound files using system.file
   straight_file <- system.file("extdata", "Straightforward.wav", package = "quoted")
+  bush_one_file <- system.file("extdata", "Bush_babies.wav", package = "quoted")
+  bush_two_file <- system.file("extdata", "So_bush_baby.wav", package = "quoted")
 
 
   # Load the wave files
   jasna_straight <- load.wave(straight_file)
+  jasna_bush_one <- load.wave(bush_one_file)
+  jasna_bush_two <- load.wace(bush_two_file)
 
   # Play the selected sound
   if (x == 1)
     play(jasna_straight)
+  if (x == 2)
+    play(jasna_bush_one)
+  if (x == 3)
+    play(jasna_bush_two)
 }
 
 # Example usage
 jasna(1)
+jasna(2)
+jasna(3)
