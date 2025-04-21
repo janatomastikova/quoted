@@ -13,7 +13,7 @@ jasna <- function(x) {
   # Load the wave files
   jasna_straight <- load.wave(straight_file)
   jasna_bush_one <- load.wave(bush_one_file)
-  jasna_bush_two <- load.wace(bush_two_file)
+  jasna_bush_two <- load.wave(bush_two_file)
 
   # Play the selected sound
   if (x == 1)
