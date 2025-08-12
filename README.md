@@ -46,17 +46,11 @@ If you're on Linux, I have no idea how it works.
 5 = Turquoise
 
 
-`wendy()` {1-2}
+`ed()` {1-2}
 
-1 = "Shut up"
+1 = "I'm so hungry"
 
-2 = "Thank you"
-
-
-`john()` {1}
-
-1 = "I don't even want to look at this anymore.."
-
+2 = Don't tell Jasna
 
 
 `zach()` {1-6}
@@ -74,11 +68,35 @@ If you're on Linux, I have no idea how it works.
 6 = "Here's a plot"
 
 
-`ed()` {1-2}
+`nick()` {1-2}
 
-1 = "I'm so hungry"
+1 = "Sad but that's how it is"
 
-2 = Don't tell Jasna
+2 = "I'm so tired I want to go to bed"
+
+
+`chris()` {1-4}
+
+1 = "Dodododo"
+
+2 = "He was looking at the hairs on my arm"
+
+3 = "I didn't have a beard when I was in high school"
+
+4 = "Eyebrows?"
+
+
+
+`wendy()` {1-2}
+
+1 = "Shut up"
+
+2 = "Thank you"
+
+
+`john()` {1}
+
+1 = "I don't even want to look at this anymore.."
 
 
 `michelle()` {1}
