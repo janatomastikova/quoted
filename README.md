@@ -61,13 +61,13 @@ If you're on Linux, I have no idea how it works.
 
 `zach()` {1-6}
 
-1 = "Can you stop talking? ..."
+1 = "We're gonna be dealing with data that's really big"
 
 2 = "What the f***? ..."
 
 3 = "I wish I was kidding ..."
 
-4 = "We're gonna be dealing with data that's really big"
+4 = "Can you stop talking? ..."
 
 5 = "I like cats btw"
 

@@ -24,13 +24,13 @@ zach <- function(x) {
 
   # Play the selected sound
   if (x == 1)
-    play(zach_talking)
+    play(zach_big)
   if (x == 2)
     play(zach_fuck)
   if (x == 3)
     play(zach_wish)
   if (x == 4)
-    play(zach_big)
+    play(zach_talking)
   if (x== 5)
     play(zach_cats)
   if (x== 6)
