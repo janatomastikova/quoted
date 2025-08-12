@@ -30,21 +30,32 @@ If you're on Linux, I have no idea how it works.
 
 `x` is a number specifying what sound to be played by either specifying one of the built in sounds or specifying the path to a wav file. The default is 1. Possible sounds are:
 
-`wendy()`
+`wendy()` - {1-2}
 
-1 =  "Shut up"
+1 = "Shut up"
 
 2 = "Thank you"
 
-`john()`
 
-1 = "I don't even wanna look at this page anymore"
+`john()` - {1}
 
-`jasna()`
+1 = "I don't even want to look at this anymore.."
 
-1 = "It's very very very straightforward"
 
-`zach()`
+`jasna()` - {1-5}
+
+1 = "This is very, very straightforward."
+
+2 = Bush baby 1
+
+3 = Bush baby 2
+
+4 = Lord of the Rings reference
+
+5 = Turquoise
+
+
+`zach()` - {1-6}
 
 1 = "Can you stop talking? ..."
 
@@ -57,6 +68,27 @@ If you're on Linux, I have no idea how it works.
 5 = "I like cats btw"
 
 6 = "Here's a plot"
+
+
+`ed()` - {1-2}
+
+1 = "I'm so hungry"
+
+2 = Don't tell Jasna
+
+
+`michelle()`  - {1}
+
+1 - "Don't leave!"
+
+
+`andrew_lawrence()` - {1-2}
+
+1 = "Incredible finding"
+
+2 = Top lecturer
+
+
 
 
 
