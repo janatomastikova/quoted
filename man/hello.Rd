@@ -3,7 +3,7 @@
 \title{Quotes from lectures - Sound on...}
 
 \description{
-This package contains several main functions based on the names of lecturers , which play a sound from a recorded lecture with a funny remark. So, turn up your volume!
+This package contains several main functions based on the names of lecturers, which play a sound from a recorded lecture with a funny remark. So, turn up your volume!
 
 It's purpose is obvious - when you are feeling sentimental about your uni and your wonderful lecturers, you can easily replay some of the best moments from lectures. It is also intended to be useful, for example, if you are running a long analysis in the background and want to know when it is ready, you simply put the sound at the end of your script.
 
