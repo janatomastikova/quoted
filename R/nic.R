@@ -2,7 +2,7 @@
 library(audio)
 
 # Function to load and play sound files
-nick <- function(x) {
+nic <- function(x) {
   # Locate the sound files using system.file
   sad <- system.file("extdata", "Sad_but.wav", package = "quoted")
   tired <- system.file("extdata", "Im_so_tired.wav", package = "quoted")
@@ -22,5 +22,5 @@ nick <- function(x) {
 }
 
 # Example usage
-nick(1)
-nick(2)
+nic(1)
+nic(2)

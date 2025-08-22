@@ -68,7 +68,7 @@ If you're on Linux, I have no idea how it works.
 6 = "Here's a plot"
 
 
-`nick()` {1-2}
+`nic()` {1-2}
 
 1 = "Sad but that's how it is"
 
